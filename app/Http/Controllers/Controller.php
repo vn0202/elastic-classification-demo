@@ -20,5 +20,6 @@ class Controller extends BaseController
     {
         $var = 'Nghĩa';
         $varibale2 = null;
+        $varible3 = "null";
     }
 }
