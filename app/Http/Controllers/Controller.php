@@ -16,4 +16,8 @@ class Controller extends BaseController
     {
       $this->test = $test;
     }
+    public function index()
+    {
+        
+    }
 }
